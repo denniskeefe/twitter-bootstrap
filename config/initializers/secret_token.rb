@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Storex::Application.config.secret_token = 'bc4998bac5d625273b966487ed0e1a64e3618d98d4573eef8fb0e979830406997df309fe4d6193a2f1a0f943458603c3aa8194eb9659b5e653e26ea528d00ef2'
+Store2::Application.config.secret_token = '3d0050e9424e823ade6f54287023e8c94928fbfa6220fca2ea0796392df5f657c4e12f05a051c03cdcc85f0f5087f9f4fe4eb9fe8a764f34413cf81c4d691df3'
